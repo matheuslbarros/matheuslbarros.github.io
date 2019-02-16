@@ -1,0 +1,85 @@
+{
+  "city": "Porto Alegre",
+  "domain": null,
+  "last_name": "Barros",
+  "avatar_preview": "PCFkb2N0eXBlIGh0bWw+PGh0bWwgbmctYXBwPSJicm5kbSIgZGV0ZWN0LWJyb3dzZXI9IiI+PGhlYWQ+PG1ldGEgbmFtZT0iZnJhZ21lbnQiIGNvbnRlbnQ9IiEiPjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtU2VjdXJpdHktUG9saWN5IiBjb250ZW50PSJkZWZhdWx0LXNyYyAnc2VsZic7IHNjcmlwdC1zcmMgJ3NlbGYnICd1bnNhZmUtaW5saW5lJyAndW5zYWZlLWV2YWwnIGh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tIGh0dHBzOi8vd3d3Lmdvb2dsZS1hbmFseXRpY3MuY29tIGh0dHA6Ly93d3cuZ29vZ2xlYWRzZXJ2aWNlcy5jb20gaHR0cHM6Ly9jZG4ucG9seWZpbGwuaW8gaHR0cHM6Ly9qcy5yZWN1cmx5LmNvbSBodHRwczovL2Z1bGxzdG9yeS5jb20gaHR0cHM6Ly93d3cuZnVsbHN0b3J5LmNvbSBodHRwczovLyouaW50ZXJjb20uaW8gaHR0cHM6Ly8qLmludGVyY29tY2RuLmNvbSBodHRwczovLyouaW50ZXJjb21hc3NldHMuY29tIGh0dHBzOi8vKi5jdXN0b21lci5pbyBodHRwczovL2Nvbm5lY3QuZmFjZWJvb2submV0IGh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbSBodHRwczovL21hcHMuZ29vZ2xlYXBpcy5jb207IGNvbm5lY3Qtc3JjICdzZWxmJyBodHRwczovL2FwaS5hbXBsaXR1ZGUuY29tIHdzOi8vbG9jYWxob3N0OjMwMDAgd3M6Ly8qLmxvY2FsaG9zdDozMDAwIGh0dHBzOi8vcmVtb3RlLmNvbSBodHRwczovLyoucmVtb3RlLmNvbSB3czovL2NoYXQucmVtb3RlLmNvbSB3c3M6Ly9jaGF0LnJlbW90ZS5jb20gd3M6Ly9jaGF0Lm1vb3h5LmNvbSB3c3M6Ly9jaGF0Lm1vb3h5LmNvbSBodHRwczovL3MzLmFtYXpvbmF3cy5jb20gaHR0cHM6Ly9ycy5mdWxsc3RvcnkuY29tIGh0dHBzOi8vKi5pbnRlcmNvbS5pbyB3c3M6Ly8qLmludGVyY29tLmlvIGh0dHBzOi8vc2VjdXJlLmFwaS5wcm9taXNlcGF5LmNvbSBodHRwczovL3Rlc3QuYXBpLnByb21pc2VwYXkuY29tIGh0dHBzOi8vd3d3Lmdvb2dsZS1hbmFseXRpY3MuY29tOyBzdHlsZS1zcmMgJ3NlbGYnICd1bnNhZmUtaW5saW5lJyBodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tOyBmb250LXNyYyAnc2VsZicgaHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbSBodHRwczovL2pzLmludGVyY29tY2RuLmNvbTsgZnJhbWUtc3JjICdzZWxmJyBodHRwczovL3JlbW90ZS5jb20gaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tIGh0dHA6Ly9zdGF0aWN4eC5mYWNlYm9vay5jb207IGltZy1zcmMgJ3NlbGYnIGRhdGE6IGJsb2I6IGh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS8gaHR0cHM6Ly8qLnJlbW90ZS5jb20gaHR0cHM6Ly9tZWRpYS5saWNkbi5jb20gaHR0cDovL3VwbG9hZHMuYnJhbmRlZC5tZSBodHRwczovL3VwbG9hZHMuZG9jay5pbyBodHRwczovL2Rldi11cGxvYWRzLmRvY2suaW8gaHR0cHM6Ly8qLmJyYW5kZWQubWUgaHR0cHM6Ly8qLm1vb3h5LmNvbSBodHRwczovLyouZ3N0YXRpYy5jb20gaHR0cHM6Ly9zdGF0aWMuaW50ZXJjb21hc3NldHMuY29tIGh0dHBzOi8vanMuaW50ZXJjb21jZG4uY29tIGh0dHBzOi8vdHJhY2suY3VzdG9tZXIuaW8gaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tIGh0dHBzOi8vd3d3Lmdvb2dsZS1hbmFseXRpY3MuY29tIGh0dHBzOi8vc3RhdHMuZy5kb3VibGVjbGljay5uZXQ7Ij48bWV0YSBjaGFyc2V0PSJ1dGYtOCI+PHRpdGxlPlJlbW90ZSBXb3JrIGFuZCBSZW1vdGUgSm9iczwvdGl0bGU+PG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkNvbm5lY3Rpbmcgb3ZlciAyIG1pbGxpb24gcHJvZmVzc2lvbmFscyB3aXRoIHJlbW90ZSBhbmQgZnJlZWxhbmNlIGpvYnMuIEVuZC10by1lbmQgc29sdXRpb25zIGZvciBoaXJpbmcgbWFuYWdlcnMgYW5kIGpvYiBzZWVrZXJzLiI+PG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCI+PG1ldGEgbmFtZT0id290LXZlcmlmaWNhdGlvbiIgY29udGVudD0iNjlmOGMzZTE3YTljYTk0Y2YwNzYiPjxiYXNlIGhyZWY9Ii8iPjxsaW5rIHJlbD0iaWNvbiIgaHJlZj0iL2Fzc2V0cy9mYXZpY29ucy9mYXZpY29uLmljbyI+PGxpbmsgcmVsPSJpY29uIiB0eXBlPSJpbWFnZS9wbmciIGhyZWY9Ii9hc3NldHMvZmF2aWNvbnMvZmF2aWNvbi0zMngzMi5wbmciIHNpemVzPSIzMngzMiI+PGxpbmsgcmVsPSJpY29uIiB0eXBlPSJpbWFnZS9wbmciIGhyZWY9Ii9hc3NldHMvZmF2aWNvbnMvZmF2aWNvbi05Nng5Ni5wbmciIHNpemVzPSI5Nng5NiI+PGxpbmsgcmVsPSJpY29uIiB0eXBlPSJpbWFnZS9wbmciIGhyZWY9Ii9hc3NldHMvZmF2aWNvbnMvZmF2aWNvbi0xNngxNi5wbmciIHNpemVzPSIxNngxNiI+PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIvc3R5bGVzL3ZlbmRvci0wNGViZmEwZDhiLmNzcyI+PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIvc3R5bGVzL2FwcC1kOTdlNTRlOGY1LmNzcyI+PHNjcmlwdD4oZnVuY3Rpb24odyxkLHMsbCxpKXt3W2xdPXdbbF18fFtdO3dbbF0ucHVzaCh7J2d0bS5zdGFydCc6CiAgICBuZXcgRGF0ZSgpLmdldFRpbWUoKSxldmVudDonZ3RtLmpzJ30pO3ZhciBmPWQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF0sCiAgICBqPWQuY3JlYXRlRWxlbWVudChzKSxkbD1sIT0nZGF0YUxheWVyJz8nJmw9JytsOicnO2ouYXN5bmM9dHJ1ZTtqLnNyYz0KICAgICdodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndG0uanM/aWQ9JytpK2RsO2YucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoaixmKTsKICAgIH0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnZGF0YUxheWVyJywnR1RNLU1QSlJSWjUnKTs8L3NjcmlwdD48L2hlYWQ+PGJvZHk+PHNjcmlwdD53aW5kb3cuZGF0YUxheWVyID0gd2luZG93LmRhdGFMYXllciB8fCBbXTsgPC9zY3JpcHQ+PG5vc2NyaXB0PjxpZnJhbWUgc3JjPSJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ucy5odG1sP2lkPUdUTS1NUEpSUlo1IiBoZWlnaHQ9IjAiIHdpZHRoPSIwIiBzdHlsZT0iZGlzcGxheTpub25lO3Zpc2liaWxpdHk6aGlkZGVuIj48L2lmcmFtZT48L25vc2NyaXB0PjxzY3JpcHQgYXN5bmM9IiIgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii8vd3d3Lmdvb2dsZWFkc2VydmljZXMuY29tL3BhZ2VhZC9jb252ZXJzaW9uX2FzeW5jLmpzIj4KICAgIDwvc2NyaXB0PjwhLS1baWYgbHQgSUUgMTBdPgogPHAgY2xhc3M9ImJyb3dzZWhhcHB5Ij5Zb3UgYXJlIHVzaW5nIGFuIDxzdHJvbmc+b3V0ZGF0ZWQ8L3N0cm9uZz4gYnJvd3Nlci4gUGxlYXNlIDxhIGhyZWY9Imh0dHA6Ly9icm93c2VoYXBweS5jb20vIj51cGdyYWRlIHlvdXIgYnJvd3NlcjwvYT4gdG8gaW1wcm92ZSB5b3VyIGV4cGVyaWVuY2UuPC9wPgogPCFbZW5kaWZdLS0+PHVpLXZpZXcgY2xhc3M9ImluZGV4LXZpZXcgYW0tZmFkZSIgYXV0b3Njcm9sbD0iIj48ZGl2IGNsYXNzPSJzcGxhc2gtc2NyZWVuIHNwbGFzaC1zY3JlZW4tYXV0aCI+PGRpdiBjbGFzcz0ic3BsYXNoLXNjcmVlbi1sb2dvIj48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJzcGxhc2gtc2NyZWVuIHNwbGFzaC1zY3JlZW4tcHVibGljIj48ZGl2IGNsYXNzPSJsb2FkaW5nIj48L2Rpdj48L2Rpdj48L3VpLXZpZXc+PHJtdC1tb2RhbCB1aS12aWV3PSJuYXYtbW9kYWwiIGNsYXNzPSJuYXYtbW9kYWwiPjwvcm10LW1vZGFsPjxkaXYgaWQ9ImFsZXJ0LWNvbnRhaW5lciI+PC9kaXY+PHNjcmlwdD4KICAgICAgKGZ1bmN0aW9uKCkgewogICAgICAgIC8vIEludGVyY29tCiAgICAgICAgdmFyIHc9d2luZG93O3ZhciBpYz13LkludGVyY29tO2lmKHR5cGVvZiBpYz09PSJmdW5jdGlvbiIpe2ljKCdyZWF0dGFjaF9hY3RpdmF0b3InKTtpYygndXBkYXRlJyxpbnRlcmNvbVNldHRpbmdzKTt9ZWxzZXt2YXIgZD1kb2N1bWVudDt2YXIgaT1mdW5jdGlvbigpe2kuYyhhcmd1bWVudHMpfTtpLnE9W107aS5jPWZ1bmN0aW9uKGFyZ3Mpe2kucS5wdXNoKGFyZ3MpfTt3LkludGVyY29tPWk7ZnVuY3Rpb24gbCgpe3ZhciBzPWQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7cy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnO3MuYXN5bmM9dHJ1ZTtzLnNyYz0naHR0cHM6Ly93aWRnZXQuaW50ZXJjb20uaW8vd2lkZ2V0L3ltb3MyMHZhJzt2YXIgeD1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTt4LnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHMseCk7fWlmKHcuYXR0YWNoRXZlbnQpe3cuYXR0YWNoRXZlbnQoJ29ubG9hZCcsbCk7fWVsc2V7dy5hZGRFdmVudExpc3RlbmVyKCdsb2FkJyxsLGZhbHNlKTt9fQogICAgICAgIHdpbmRvdy5JbnRlcmNvbSgiYm9vdCIsIHsKICAgICAgICAgYXBwX2lkOiAieW1vczIwdmEiCiAgICAgICAgfSk7CiAgICAgIH0pKCk7CiAgICA8L3NjcmlwdD48c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4ucG9seWZpbGwuaW8vdjIvcG9seWZpbGwubWluLmpzP2ZlYXR1cmVzPWRlZmF1bHQsUHJvbWlzZSxTdHJpbmcucHJvdG90eXBlLnN0YXJ0c1dpdGgsU3RyaW5nLnByb3RvdHlwZS5lbmRzV2l0aCxsb2NhdGlvbi5vcmlnaW4iPjwvc2NyaXB0PjxzY3JpcHQgc3JjPSIvc2NyaXB0cy92ZW5kb3ItNmRjYzdmNWZkNS5qcyI+PC9zY3JpcHQ+PHNjcmlwdCBzcmM9Ii9zY3JpcHRzL2FwcC02Njk2YTk5NjQ0LmpzIj48L3NjcmlwdD48c2NyaXB0IGFzeW5jPSIiIHNyYz0iaHR0cHM6Ly9qcy5yZWN1cmx5LmNvbS92My9yZWN1cmx5LmpzIj48L3NjcmlwdD48L2JvZHk+PC9odG1sPg==",
+  "created": 1459975660,
+  "headline": "Full Stack Web Developer",
+  "country": "BR",
+  "client_rating": null,
+  "first_name": "Matheus",
+  "slug": "matheusbarros",
+  "connections": [
+    {
+      "avatar_preview": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wgARCAADAAMDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/aAAwDAQACEAMQAAABnwdX/8QAFhABAQEAAAAAAAAAAAAAAAAAAwQU/9oACAEBAAEFAq2TT//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQMBAT8Bf//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAIAQIBAT8Bf//EABgQAAIDAAAAAAAAAAAAAAAAAAABAyIy/9oACAEBAAY/ApbvR//EABcQAQADAAAAAAAAAAAAAAAAAAEAESH/2gAIAQEAAT8hoQIIxn//2gAMAwEAAgADAAAAEA//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QAy//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QDb//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEh/9oACAEBAAE/EAgARQAKGE//2Q==",
+      "avatar": "https://uploads.branded.me/56db872b01925b000cca90ee/user56db872b01925b000cca90ee/0_0kxPAVUs8umIPzj1Y9CAB8QshAx36BtyDaC98k6s82xTBUOnRvCKlKRyKTOSTcgzjCCAXRsJ_HYTXQ0KYfap63VsqHY3XQfzZfalPV6VT-fHXAYyZwOKzOll7u"
+    },
+    {
+      "avatar_preview": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAMElEQVR4nGN01Ff6L69iwPDuLwMDyx9uEQbmn98Yvn5nZmB59ZWP4fm7nww/2EUYAA9dDsOLA1JMAAAAAElFTkSuQmCC",
+      "avatar": "https://uploads.remote.com/56f052d34f0468000b36267b/598cf99db19aa6000f198f00.jpg"
+    },
+    {
+      "avatar_preview": null,
+      "avatar": "https://scontent.xx.fbcdn.net/hprofile-xal1/v/t1.0-1/p200x200/12299401_10201279469506780_2058407915491024343_n.jpg?oh=002daca526d71ca68f4e505e3b20d15e&oe=57882BDE"
+    },
+    {
+      "avatar_preview": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAMElEQVR4nGMMqDnwX1iEh4GHT5SBRfDnKQbev3IMXNw8DIxe3u7/xYUEGF7+5WQAAMdFChQfeRbkAAAAAElFTkSuQmCC",
+      "avatar": "https://uploads.remote.com/56f8a2a84f0468000bd00995/5b3bbc0f403eba0012416edc.JPG"
+    },
+    {
+      "avatar_preview": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAL0lEQVR4nGPg4+L+3+Bt9l9LQvg/i4ODFYObrRbDrf9cDEy87AwMRxh5GRi5+RgA0zYIx0ArnyEAAAAASUVORK5CYII=",
+      "avatar": "https://uploads.remote.com/571e18c57c2150000b40f183/59a93225c0d685001a4ecffd.jpg"
+    }
+  ],
+  "last_activity": 1550180320,
+  "freelancer_rating": null,
+  "avatar": "https://uploads2.remote.com/56dd7b8301925b000b0f41b8/5c5b1b156f29990532af6013.png",
+  "background": "https://uploads2.remote.com/56dd7b8301925b000b0f41b8/5c544b6fe9a1c6053b109e0e.png",
+  "id": "56dd7b8301925b000b0f41b8",
+  "counters": {
+    "contracts_client": 0,
+    "jobs": 0,
+    "appreciations": 0,
+    "posts": 0,
+    "connections": 7,
+    "contracts_freelancer": 0,
+    "followers": 7,
+    "following": 7,
+    "jobs_approved": 0
+  },
+  "bio": "I'm Matheus Barros. I have been working for 10 years with web development and I am passionate about what I do. My development stack is usually PHP and MySQL but I'm also comfortable and excited about Nodejs and MongoDB. I am constantly discovering new methods and technologies which help me to learn and improve my knowledge. I want to be a part of a team with similar interests, and an organization that values its employees.",
+  "industry": null,
+  "badges": [],
+  "location": {
+    "country_name": "United States",
+    "timezone": "America/New_York",
+    "user_input": {
+      "utc_offset": -180,
+      "name": "Brazil",
+      "city_id": "3453855",
+      "place_id": "ChIJzyjM68dZnAARYz4p8gYVWik",
+      "longitude": -51.92527999999999,
+      "timezone": "America/Cuiaba",
+      "scope": "GOOGLE",
+      "latitude": -14.235004,
+      "address_components": [
+        {
+          "long_name": "Brazil",
+          "types": [
+            "country",
+            "political"
+          ],
+          "short_name": "BR"
+        }
+      ],
+      "state_code": "14",
+      "formatted_address": "Brazil",
+      "types": [
+        "country",
+        "political"
+      ],
+      "description": "Brazil"
+    },
+    "standardized": "Porto Alegre, Brazil"
+  }
+}

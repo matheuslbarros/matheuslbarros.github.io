@@ -1,0 +1,281 @@
+
+@import 'bootstrap.scss';
+@import 'animate.scss';
+
+@page {
+  size: A4;
+}
+
+@media print {
+  a {
+    text-decoration: none !important;
+  }
+}
+
+.asd {
+  color: #70707a;
+}
+
+body {
+  color: #2c2b3f;
+  -webkit-font-smoothing: antialiased;
+}
+
+section {
+  margin-top: 6em;
+  // margin-bottom: 6em;
+}
+
+h2 {
+  margin-bottom: 1.5em;
+}
+
+.profile__header {
+  text-align: center;
+  // margin-top: -90px;
+  margin-bottom: 100px;
+
+  &::before {
+    content: '';
+    display: block;
+    height: 35vh;
+    background: linear-gradient(-135deg, #2c3e50, #3498db);
+  }
+}
+
+.profile__container {
+  @extend .container;
+}
+
+.profile__content {
+  max-width: 720px !important;
+  // margin: 0 auto 1rem;
+  // padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 6em;
+}
+
+.profile-user {
+  margin-top: -90px;
+  margin-bottom: 1em;
+
+  &__picture {
+    margin-bottom: 1em;
+  }
+
+  &__avatar {
+    max-width: 50vw;
+    width: 180px;
+    box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.75);
+    border-radius: 50%;
+  }
+  
+  &__headline {
+    font-size: 1.5em;
+    font-weight: 400;
+    line-height: 2;
+  }
+
+  &__from {
+    line-height: 2;
+  }
+}
+
+
+.profile-navigation {
+  margin-top: 3em;
+  margin-bottom: 3em;
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-top: solid .1rem #efeff0;
+    border-bottom: solid .1rem #efeff0;
+  }
+
+  &__item {
+    padding: 1em;
+    text-decoration-line: none;
+    font-size: 14px;
+
+    @media only screen and (min-width: 425px) {
+      font-size: 16px;
+    }
+  }
+}
+
+.profile__logo {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.profile-about {
+  
+  page-break-after: always;
+
+  &__bio {
+    font-size: 1.1em;
+    color: #70707a;
+  }
+}
+
+.profile-experience {
+  
+  page-break-after: always;
+
+  &__item {
+    align-items: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    + div {
+      border-top: solid .1rem #efeff0;
+    }
+  }
+  
+  &__row {
+    @extend .row;
+
+    align-items: center;
+  }
+
+  &__image {
+    @extend .col-auto;
+  }
+
+  &__description {
+    @extend .col-sm;
+    @extend .order-3;
+    @extend .order-sm-2;
+
+    margin-top: .5em;
+    margin-bottom: .5em;
+  }
+
+  &__time {
+    @extend .col;
+    @extend .col-sm-auto;
+    @extend .order-2;
+    @extend .order-sm-3;
+
+    text-align: right;
+  }
+
+  &__company-logo {
+    max-width: 100px;
+    max-height: 100px;
+    border: 1px solid #ccc;
+    border-radius: 10%;
+  }
+
+  &__occupation-name {
+    font-size: 1.3em;
+    font-weight: bold;
+  }
+
+  &__company-name {
+    font-size: 1.1em;
+  }
+
+  &__bio {
+    @extend .col;
+
+    margin-top: .5em;
+    margin-bottom: 0;
+
+    color: #70707a;
+  }
+}
+
+.profile-education {
+
+  &__item {
+    @extend .row;
+  
+    align-items: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+  
+    + div {
+      border-top: solid .1rem #efeff0;
+    }
+  }
+
+
+  &__image {
+    @extend .col-auto;
+  }
+
+  &__school-img {
+    max-width: 100px;
+    max-height: 100px;
+    border: 1px solid #ccc;
+    border-radius: 10%;
+  }
+
+  &__school-name {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+
+  &__field-of-study {
+    font-size: 1.1em;
+  }
+
+  &__description {
+    @extend .col-sm;
+    @extend .order-3;
+    @extend .order-sm-2;
+
+    padding-top: .5em;
+    padding-bottom: .5em;
+  }
+
+  &__time {
+    @extend .col;
+    @extend .col-sm-auto;
+    @extend .order-2;
+    @extend .order-sm-3;
+
+    text-align: right;
+  }
+}
+
+.profile-skill {
+
+  &__row {
+    @extend .row;
+  }
+
+  &__item {
+    @extend .col-sm-6;
+
+    margin-bottom: 1em;
+  }
+
+  &__description {
+    display: flex;
+    justify-content: space-between;
+    line-height: 2;
+  }
+
+  &__level {
+    background: #e0dfe2;
+  }
+
+  &__percent {
+    height: 4px;
+    background: linear-gradient(to right,#5bdfce 0%,#20b8cf 100%);
+  }
+}
+
+.profile__footer {
+  display: flex;
+  justify-content: center;
+
+  a {
+    padding: 1em;
+  }
+}

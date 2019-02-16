@@ -1,0 +1,242 @@
+{
+  "keywords": [],
+  "education": [
+    {
+      "start_month": 2,
+      "school": {
+        "logo": "https://uploads.remote.com/56dd7b8301925b000b0f41b8/59c933e5f57a1d0018b3fb31.png",
+        "name": "Escolas e Faculdades QI"
+      },
+      "degree": null,
+      "field_of_study": {
+        "name": "Computer Technician, Computing"
+      },
+      "end_year": 2010,
+      "notes": null,
+      "start_year": 2008,
+      "end_month": 2,
+      "is_current": false
+    },
+    {
+      "start_month": 3,
+      "school": {
+        "logo": "https://uploads.remote.com/56dd7b8301925b000b0f41b8/59c933bc4ea02e0016056578.png",
+        "name": "Centro Universit\u00e1rio Ritter dos Reis"
+      },
+      "degree": null,
+      "field_of_study": {
+        "name": "Graduated degree, Agile Methodologies"
+      },
+      "end_year": 2016,
+      "notes": null,
+      "start_year": 2014,
+      "end_month": 12,
+      "is_current": false
+    },
+    {
+      "start_month": 3,
+      "school": {
+        "logo": "https://uploads.remote.com/56dd7b8301925b000b0f41b8/59c933c74ea02e001605657c.png",
+        "name": "Centro Universit\u00e1rio Ritter dos Reis"
+      },
+      "degree": null,
+      "field_of_study": {
+        "name": "Bachelor's degree in Information Systems"
+      },
+      "end_year": 2013,
+      "notes": null,
+      "start_year": 2010,
+      "end_month": 12,
+      "is_current": false
+    }
+  ],
+  "availability": "lt-30-hrs",
+  "stats": {
+    "stats": {
+      "client_reviews": 0,
+      "freelancer_reviews": 0
+    }
+  },
+  "phone_country_code": "55",
+  "languages": [],
+  "version": {
+    "skill_version": 1
+  },
+  "testimonials": [],
+  "relocate": true,
+  "interests": [],
+  "bio": "I'm Matheus Barros. I have been working for 10 years with web development and I am passionate about what I do. My development stack is usually PHP and MySQL but I'm also comfortable and excited about Nodejs and MongoDB. I am constantly discovering new methods and technologies which help me to learn and improve my knowledge. I want to be a part of a team with similar interests, and an organization that values its employees.",
+  "profile_type": null,
+  "phone_verified": null,
+  "background": null,
+  "progress": 100,
+  "services": [
+    {
+      "level": 3,
+      "name": "Web Development",
+      "years": 10.0
+    }
+  ],
+  "verified": true,
+  "elite": true,
+  "gallery": [],
+  "projects": [],
+  "relocate_locations": [
+    {
+      "name": "Europe",
+      "longitude": 15.255118700000025,
+      "address_components": [
+        {
+          "long_name": "Europe",
+          "short_name": "Europe",
+          "types": [
+            "continent",
+            "natural_feature",
+            "establishment"
+          ]
+        }
+      ],
+      "latitude": 54.5259614,
+      "scope": "GOOGLE",
+      "formatted_address": "Europe",
+      "types": [
+        "continent",
+        "natural_feature",
+        "establishment"
+      ]
+    }
+  ],
+  "social_networks": [
+    {
+      "url": "https://twitter.com/_Matheus_Barros",
+      "name": "twitter"
+    },
+    {
+      "url": "https://github.com/matheuslbarros",
+      "name": "github"
+    },
+    {
+      "url": "https://www.instagram.com/_matheuslbarros_/",
+      "name": "instagram"
+    }
+  ],
+  "roles": [
+    "frontend_develop",
+    "full_stack_develop",
+    "backend_develop"
+  ],
+  "skills": [
+    {
+      "years": null,
+      "name": "PHP",
+      "level": 3
+    },
+    {
+      "years": null,
+      "name": "JavaScript",
+      "level": 3
+    },
+    {
+      "years": null,
+      "name": "Java",
+      "level": 2
+    },
+    {
+      "years": null,
+      "name": "Nodejs",
+      "level": 2
+    },
+    {
+      "years": null,
+      "name": "HTML",
+      "level": 3
+    },
+    {
+      "years": null,
+      "name": "CSS",
+      "level": 3
+    }
+  ],
+  "industry": null,
+  "experience": [
+    {
+      "start_month": 10,
+      "start_year": 2018,
+      "description": "I am currently working on the digital platform project, which consists of a complete environment to provide solutions to the payment market. I work in the sandbox team, we developed the payment API simulators, facilitating the learning and use by the developers. We use Express and Hapi in the microservices, and Vue with Bootstrap in the client application.",
+      "end_year": null,
+      "company": {
+        "logo": "https://uploads2.remote.com/56dd7b8301925b000b0f41b8/5c5b1b73ea1ed30532e79f08.jpg",
+        "name": "Getnet"
+      },
+      "end_month": null,
+      "is_current": true,
+      "occupation": {
+        "name": "Full Stack Web Developer"
+      }
+    },
+    {
+      "start_month": 2,
+      "start_year": 2018,
+      "description": "I worked on the tariff comparison portal, I was part of a multicultural team, we worked with backend and frontend (mobile, desktop), we used zend in the backend and in the frontend we used javascript and templates, everything divided into components.",
+      "end_year": 2018,
+      "company": {
+        "logo": "https://uploads.remote.com/56dd7b8301925b000b0f41b8/5bca69ebb324770014368494.jpg",
+        "name": "CHECK24"
+      },
+      "end_month": 9,
+      "is_current": false,
+      "occupation": {
+        "name": "Software Developer"
+      }
+    },
+    {
+      "start_month": 1,
+      "start_year": 2009,
+      "description": "I was responsible for developing and maintaining web applications using PHP, creating websites using Wordpress, and also maintaining a Sales system and a Digital Signage system (Delphi).",
+      "end_year": 2010,
+      "company": {
+        "logo": "https://uploads.remote.com/56dd7b8301925b000b0f41b8/59c93399f57a1d0018b3fb06.png",
+        "name": "Cross Tecnologia"
+      },
+      "end_month": 7,
+      "is_current": false,
+      "occupation": {
+        "name": "Software Developer"
+      }
+    },
+    {
+      "start_month": 7,
+      "start_year": 2010,
+      "description": "I worked on the development and maintenance of an Access Control and Alarm system, we used PHP in the web application and Java in the communication between servers and equipment (socket).",
+      "end_year": 2013,
+      "company": {
+        "logo": "https://uploads.remote.com/56dd7b8301925b000b0f41b8/59c9338b4ea02e0016056570.png",
+        "name": "Commbox Tecnologia"
+      },
+      "end_month": 12,
+      "is_current": false,
+      "occupation": {
+        "name": "Java and PHP Developer"
+      }
+    },
+    {
+      "start_month": 5,
+      "start_year": 2014,
+      "description": "I worked in the web sector of the company, we had as the main function the development of a Content Management System, also worked in parallel in the construction of a framework for web applications. In addition, we did the creation of sites and the migration of their content.",
+      "end_year": 2017,
+      "company": {
+        "logo": "https://uploads.remote.com/56dd7b8301925b000b0f41b8/59c932ea4ea02e0016056510.png",
+        "name": "Procergs"
+      },
+      "end_month": 12,
+      "is_current": false,
+      "occupation": {
+        "name": "Full Stack Developer"
+      }
+    }
+  ],
+  "reviews": [],
+  "years_of_experience": 10,
+  "order": [],
+  "terminology": null
+}
